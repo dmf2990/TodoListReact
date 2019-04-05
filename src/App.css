@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  /* text-align: center; */
+}
+
+body {
+  font-family: cursive;
+  line-height: 1.4;
+}
+
+a {
+  color: rgb(83, 75, 75);
+  text-decoration: none;
+}
+
+.container{
+  padding: 2rem;
+}
+
+.btn{
+  display: inline-block;
+  border: none;
+  background-color: #555;
+  padding: 7px 20px;
+  cursor: pointer;
+  color: white;
+} 
+
+.btn:hover {
+  background-color: limegreen;
+}
