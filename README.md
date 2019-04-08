@@ -1,6 +1,31 @@
-This project is me exploring react. Run master branch. 
+## REACT JS Personal Exploration Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple ToDo list, and it was my first React project. See my Master branch for latest additions. Here I gained exposure to add, delete, and mark-off items of my ToDo list. 
+
+
+## Dependencies used
+    https://jsonplaceholder.typicode.com/
+    React
+    NPM
+    
+## Instructions for use 
+
+Clone project from github, open project 'master Branch'. Run 'NPM start' and view the web page!
+
+### What I really like?
+
+JSX is by far my favorite part of React. It is simple, yet still powerful. 
+
+### Reference docs utilized
+
+https://stackoverflow.com/
+https://developer.mozilla.org/en-US/docs/Web/javascript
+https://jsonplaceholder.typicode.com/
+
+
+
+#Further NPM details:
+
 
 ## Available Scripts
 
@@ -39,32 +64,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
